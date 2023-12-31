@@ -35,7 +35,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 
 ## Current Stats: 
-![samaydhawale000's Stats](https://github-readme-stats.vercel.app/api?username=samaydhawale000&theme=transparent&show_icons=true&hide_border=false&count_private=true)
-![samaydhawale000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samaydhawale000&theme=transparent&hide_border=false)
+![deepanshu-rahuwanshi's Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Raghuwanshi&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![deepanshu-rahuwanshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-rahuwanshi&theme=transparent&hide_border=false)
 
-![samaydhawale000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samaydhawale000&theme=transparent&show_icons=true&hide_border=false&layout=compact)
+![deepanshu-rahuwanshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rahuwanshi&theme=transparent&show_icons=true&hide_border=false&layout=compact)
