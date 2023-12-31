@@ -4,6 +4,13 @@
 
 # Hi there 👋 I am Deepanshu Raghuwanshi 👨‍💻
 
+- 🔭 I’m currently working on **Full-stack Web Development with React, Node.js, and MongoDB**
+- 🌱 I’m continuously learning and improving my skills
+- 👯 I’m looking to collaborate on **exciting web development projects**
+- 💬 Ask me about anything related to **React, Node.js, Express.js, MySQL, and MongoDB**
+- 😄 Pronouns: Dipans
+- ⚡ Fun fact: The only language where null == undefined but also null !== undefined. JavaScript, keeping it ambiguous.
+
 ## About Me 🙋‍♂️
 A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
 
@@ -14,7 +21,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 
 ## My Projects 📑
-- Weather App (Individual Project) : [https://dipans-weather-app.netlify.app/](https://musicmix.netlify.app/)
+- Weather App (Individual Project) : [https://dipans-weather-app.netlify.app/](https://dipans-weather-app.netlify.app)
 - Thali App (Individual Project) : [https://musicmix.netlify.app/](https://dipans-thali-app.netlify.app)
 - Basic Calculator (Individual Project) : [https://codepulseweb.netlify.app/](https://dipans-calculator.netlify.app)
 - Restaurant Tip Calculator (Individual Project) :[https://dipans-tip-calculator.netlify.app](https://dipans-tip-calculator.netlify.app)
@@ -23,7 +30,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 ## Languages and Tools 🔠
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,mui,github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,mysql,git,postman,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mui,github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,mysql,git,postman,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
