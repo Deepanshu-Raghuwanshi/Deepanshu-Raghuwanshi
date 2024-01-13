@@ -35,7 +35,8 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 
 ## Current Stats: 
-![deepanshu-rahuwanshi's Stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Raghuwanshi&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![deepanshu-rahuwanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Raghuwanshi&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Deepanshu-Raghuwanshi)](https://git.io/streak-stats)
 
 ![deepanshu-rahuwanshi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-Raghuwanshi&theme=transparent&show_icons=true&hide_border=false&layout=compact)
