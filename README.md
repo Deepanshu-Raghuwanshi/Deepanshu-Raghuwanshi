@@ -19,7 +19,6 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 - Resume Drive Link: https://drive.google.com/file/d/1w3kboccE-q_VEGe5J-OQUK4mQmzMsjw8/view?usp=drive_link
 - Full Stack Certification:https://drive.google.com/file/d/1JDRvH6va-5cP_2_QVoWYSVlwJbh8F6Fh/view?usp=drive_link
 
-
 ## My Projects 📑
 - Weather App (Individual Project) : [https://dipans-weather-app.netlify.app/](https://dipans-weather-app.netlify.app)
 - Thali App (Individual Project) : [https://musicmix.netlify.app/](https://dipans-thali-app.netlify.app)
