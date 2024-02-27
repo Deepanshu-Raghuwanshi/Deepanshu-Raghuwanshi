@@ -11,7 +11,6 @@
 - 😄 Pronouns: Dipans
 - ⚡ Fun fact: The only language where null == undefined but also null !== undefined. JavaScript, keeping it ambiguous.
 
-
 ## About Me 🙋‍♂️
 A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
 
