@@ -22,11 +22,8 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 - Employee Of The Month 01/2024 At HeyCoach:https://drive.google.com/file/d/103QgtJ3NOTVLuecCBaAOCGh3Ljv0b3kF/view?usp=drive_link
 
 ## My Projects 📑
-- Weather App (Individual Project) : [https://dipans-weather-app.netlify.app/](https://dipans-weather-app.netlify.app)
-- Thali App (Individual Project) : [https://musicmix.netlify.app/](https://dipans-thali-app.netlify.app)
-- Basic Calculator (Individual Project) : [https://codepulseweb.netlify.app/](https://dipans-calculator.netlify.app)
-- Restaurant Tip Calculator (Individual Project) :[https://dipans-tip-calculator.netlify.app](https://dipans-tip-calculator.netlify.app)
 
+- My Portfolio : [https://musicmix.netlify.app/](https://dipans-portfolio.netlify.app)
 
 ## Languages and Tools 🔠
 
