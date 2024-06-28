@@ -23,7 +23,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 ## My Projects 📑
 
-- My Portfolio : [https://musicmix.netlify.app/](https://dipans-portfolio.netlify.app)
+- My Portfolio : [Portfolio](https://dipans-portfolio.netlify.app)
 
 ## Languages and Tools 🔠
 
