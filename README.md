@@ -17,7 +17,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 - LinkedIn : [https://www.linkedin.com/in/deepanshu-raghuwanshi-853195279//](https://www.linkedin.com/in/deepanshu-raghuwanshi-853195279//) 
 - Email: dipanshuraghuwanshi@gmail.com
-- Resume Drive Link: https://drive.google.com/file/d/1MxrG-23BlUOCAJWgeipwuXtLOJSaSXhI/view?usp=drive_link
+- Resume Drive Link: https://drive.google.com/file/d/1QpKrxRlng0d5JNO1X9amRygpjC9nLiTO/view?usp=sharing
 - Full Stack Certification:https://drive.google.com/file/d/1JDRvH6va-5cP_2_QVoWYSVlwJbh8F6Fh/view?usp=drive_link
 - Employee Of The Month 01/2024 At HeyCoach:https://drive.google.com/file/d/103QgtJ3NOTVLuecCBaAOCGh3Ljv0b3kF/view?usp=drive_link
 
